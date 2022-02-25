@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Whole examination of the birth of the pretended Prince of Wales and the true mother of that notorious counterfeit and impostor fully discovered and proved, before the Lords and Commons of England, for the publick satisfaction of the whole kingdom.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65959</idno>
+            <idno type="STC">Wing W2056</idno>
+            <idno type="STC">ESTC R39391</idno>
+            <idno type="EEBO-CITATION">18394169</idno>
+            <idno type="OCLC">ocm 18394169</idno>
+            <idno type="VID">107468</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65959)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107468)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1136:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Whole examination of the birth of the pretended Prince of Wales and the true mother of that notorious counterfeit and impostor fully discovered and proved, before the Lords and Commons of England, for the publick satisfaction of the whole kingdom.</title>
+               </titleStmt>
+               <extent>[1], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"This book was written some years since, by an eminent and learned gentleman ..." -- P. [1].</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: stained, with print show-through and some loss of print.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James, --  Prince of Wales, 1688-1766.</term>
+               <term>Great Britain --  Kings and rulers --  Succession.</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="preface">
+            <pb facs="tcp:107468:1"/>
+            <head>An Advertiſement to the Reader.</head>
+            <p>THis Book was written ſome Years ſince, by an Eminent and Learned Gentleman; and having been peruſed by ſome Judicious Perſons, they have adviſed the Publication of it, as very ſeaſonable to the preſent State of Affairs.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:107468:1"/>
+            <head>The whole EXAMINATION BIRTH Of the Pretended <hi>Prince of Wales,</hi> AND THE True MOTHER OF THAT Notorious Counterfeit and Impoſtor <hi>Fully Diſcovered and Proved,</hi> Before the LORDS and COMMONS of <hi>England,</hi> for the publick Satisfaction of the whole KINGDOM.</head>
+            <p>OF all the Cheats, Frauds, and Impoſitions put upon Mankind, ſince <hi>Melten Calfs</hi> were ſet up, and Adored for Gods, the World can hardly parallel this horrid Impoſtor obtruded upon the Imperi<g ref="char:EOLhyphen"/>al Crown of <hi>England,</hi> for the Enſlaving of a Nation.</p>
+            <p>The Arts, the Labour, the Plottings and Cabals (as ſhall be here made out) and in<g ref="char:EOLhyphen"/>deed all the Engines and Engineers ſet at Work, through the whole Management, are ſuch a complicated Maſs of Villany, as cannot be repeated without Horror and A<g ref="char:EOLhyphen"/>ſtoniſhment: Conſidering not only the Im<g ref="char:EOLhyphen"/>pudent falſifying with Men, whilſt their miſtaken Homage and Veneration, due only to the Imperial Sacred Blood of Princes, has been extorted from them, and paid to Dirt and Rubbiſh; but alſo the prevaricating e<g ref="char:EOLhyphen"/>ven with God himſelf, whilſt publick Pray<g ref="char:EOLhyphen"/>ers, and Solemn Thankſgivings, and all, a<g ref="char:EOLhyphen"/>las but ſo many meer mock Oblations have been made ſo conſiderable and indeed ſo ſhameful a part of the Pagean<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g>
+            </p>
+            <p>When we read the dreadful <hi>Anathema's</hi> pronounced againſt the general Claſs of Hy<g ref="char:EOLhyphen"/>pocrits, to what frightful Apprehenſions of the more than common Bolts and Vials or Divine Wrath, due to the unexampled Au<g ref="char:EOLhyphen"/>thors and Com-plotters of ſo amazing a De<g ref="char:EOLhyphen"/>luſion, muſt our ſerious Reflections lead us<g ref="char:punc">▪</g> A Deluſion ſo truly Tremendious, that the fatal Conſequences of it, (had not the Hand of Providence been even a miraculous Deli<g ref="char:EOLhyphen"/>verer) were almoſt unimaginable. For In<g ref="char:EOLhyphen"/>ſtance:</p>
+            <p>After Heaven had Commiſſion'd the great <hi>Henry</hi> Earl of <hi>Richmond,</hi> (afterwards <hi>Henry</hi> the Seventh) to Execute its own particular Mandate, in the Death of the Bloody <hi>Rich<g ref="char:EOLhyphen"/>ard</hi>
+               <pb n="2" facs="tcp:107468:2"/>the Third; a Tyrant, that had himſelf been the Executioner of King <hi>Henry</hi> the Sixth, (that Innocent Prince) with his own hands, the contriver of the Death of the Duke of <hi>Clarence</hi> his Brother, and the Mur<g ref="char:EOLhyphen"/>derer of his Nephews, the two young Prin<g ref="char:EOLhyphen"/>ces <hi>Edward</hi> and <hi>Richard</hi> in the <hi>Tower</hi> (one of them his Lawful King) by the Hands of his Ruffians and Hirelings: The Uniting of the <hi>White Roſe,</hi> and the <hi>Red</hi> (a Diſpute that had ſo often coſt ſo much Engliſh Blood) by the Marriage of the King, the Heir of the <hi>Lancaſtrian,</hi> and <hi>Elizabeth</hi> of the Houſe of <hi>York;</hi> ſeem'd to have laid a laſting Foundati<g ref="char:EOLhyphen"/>on for the future Peace of <hi>England.</hi> Never<g ref="char:EOLhyphen"/>theleſs, as reſtleſs Spirits, and Ambitious Minds, are never wanting to diſturb the Quiet, even of the moſt <hi>Halcyon</hi> Reign; it is almoſt impoſſible, even in the higheſt Diſ<g ref="char:EOLhyphen"/>penſations of Humane Bleſſings, and a Na<g ref="char:EOLhyphen"/>tional Felicity, to have all Men ſatisfied.</p>
+            <p>
+               <hi>Henry</hi> upon his Acceſſion to the Crown, by a State Jealouſie, a natural Diſeaſe in Crown'd Heads, had taken <hi>Edward Plantagenet,</hi> Son and Heir of <hi>George</hi>-Duke of <hi>Clarence,</hi> a Male Remnant of the Houſe of <hi>York,</hi> formerly by King <hi>Richard</hi>'s Commandment, detained in in ſafe Cuſtody, in a Caſtle in <hi>York-ſhire;</hi> and kept him cloſe Priſoner in the Tower.</p>
+            <p>The ſeverity uſed to this young Prince be<g ref="char:EOLhyphen"/>gat a publick Rumour, that King <hi>Henry</hi> was copying after his Predeceſſor <hi>Richard</hi>'s Ori<g ref="char:EOLhyphen"/>ginal, and that this Princely youth had ei<g ref="char:EOLhyphen"/>ther already run the Fate of the poor Lament<g ref="char:EOLhyphen"/>ed young Princes before Murdered there, or at leaſt that he was ſpeedily threatned with the ſame untimely End.</p>
+            <p>However this popular Impreſſion was not ſo Univerſal, but another part of mankind, were of an Opinion in the contrary extream, <hi>viz.</hi> that even young <hi>Edward,</hi> and his Bro<g ref="char:EOLhyphen"/>ther <hi>Richard;</hi> both, or at leaſt one of them were alive ſtill; notwithſtanding the known Barbarity of their Inhumane Uncle <hi>Richard:</hi> Nor was their Credulity in that point ſo much to be wondered at; that two young Princes privately Butcher'd within the Tower, only by four Aſſaſſinates, might in the po<g ref="char:EOLhyphen"/>pular Faith be believed alive ſtill: When a later Unfortunate Gentleman, that loſt his Head at Noon day, upon the open <hi>Tower-bill,</hi> before Four times Four thouſand Eye-witneſ<g ref="char:EOLhyphen"/>ſes, can hardly be believed Dead yet.</p>
+            <p>At this time (as indeed at all times) there was a ſubtile Prieſt (for ſuch they moſt are) call'd <hi>Richard Simon:</hi> This Prieſt had to his Pupil, a youth of about 15 years of Age, Named <hi>Robert Simnel;</hi> by his Original, Born of the Body of a Bakers VVife, and poſſibly begotten too, by the honeſt Pye cruſt-Raiſer the Baker; though in reality ſo well favour'd, and of that extraordinary Dignity, and Grace of Aſpect, as probably might En<g ref="char:EOLhyphen"/>title him to ſome more Gentleman like De<g ref="char:EOLhyphen"/>rivation, then the courſer Veins of his re<g ref="char:EOLhyphen"/>puted Father, the Drudg at the Oven could give him. But of the more ſure Mother ſide, Dame <hi>Simnel</hi> more certainly claim'd her ma<g ref="char:EOLhyphen"/>ternal propriety in him.</p>
+            <p>It came into this Prieſts Fancy (as Em<g ref="char:EOLhyphen"/>broyling of Kingdoms, are ſeldom out of their Fancies) to ſet up this Lad, for a Prince of <hi>Wales,</hi> or a Duke of <hi>York;</hi> either for the firſt or ſecond Son of King <hi>Edward</hi> the Fourth, before Murdered; though by Vulgar Tradi<g ref="char:EOLhyphen"/>tion received for Living. This projection was firſt Hammered, and reſolved upon; but an Accident happening, made him change his firſt meaſures, and afterwards deſigned him to perſonate <hi>Edward Plantagenet,</hi> the above<g ref="char:EOLhyphen"/>named preſent Priſoner in the Tower. And why? becauſe about this time a General Bruit aroſe, that <hi>Edward Plantagenet</hi> had pre<g ref="char:EOLhyphen"/>vented King <hi>Henry</hi>'s: Bloody purpoſe, by an Eſcape from the Tower; and thereby finding him ſo much beloved amongſt the People, and ſuch rejoycing at his reported Deliverance, the cunning Prieſt changed his firſt Copy; the young <hi>Plantagenet</hi> being more in the preſent Speech, and Votes of the People; and ſo it pelced better, and followed more cloſe and handſomely to appear a <hi>Plantagenet,</hi> after a
+<pb n="3" facs="tcp:107468:2"/>Reſurrection from ſo many Years lying Bu<g ref="char:EOLhyphen"/>ried in Priſon walls; then an <hi>Edward,</hi> or a <hi>Richard</hi> now almoſt forgotten.</p>
+            <p>Accordingly the Ghoſtly Prince-maker, big with wonderous hopes of preferment, by the Idol he reſolved to ſet up. expecting to be a Biſhop at leaſt, if his Game was once play'd out; began to inſtruct his young Pupil, in all the magiſterial Graces and Behaviours of his intended Soveraignty, and what by his own, and the Queen Dowagers Aſſiſtanee, from whom this Action had the principal ſourſe and motion; they held the Book ſo well, and and ſo prompted him in the whole Stage-play, that they equipt him for a compleat true Roy<g ref="char:EOLhyphen"/>al-Born immediately; and furniſht him with all and all manner of Anſwers fitted to all Queſtions and Interrogatories.</p>
+            <p>And indeed there was very good Reaſon for a more than ordinary care and caution, in acting ſo critical a part. For alas, our new made Prince was not to perſonate one that had been long before taken out of his Cradle, or conveyed away in his Infancy, and ſo al<g ref="char:EOLhyphen"/>moſt unknown, or at leaſt forgotten, but a youth that till the Age of almoſt Ten years, had been brought up in a Court, where in<g ref="char:EOLhyphen"/>finite Eyes had been upon him.</p>
+            <p>However as bold a Maſquerader as this Attempt would make him, the Hazard ſhall be no Barr to the Deſign. For that enter<g ref="char:EOLhyphen"/>prize muſt be very hardy indeed, where the Forehead of a Prieſt ſhall redden at the under<g ref="char:EOLhyphen"/>taking.</p>
+            <p>However, for the fore-mentioned Reaſons it was not thought convenient that he ſhould make his firſt Entry upon the <hi>Engliſh</hi> Stage, leaſt the too curious <hi>Engliſh</hi> Opticks, ſhould pry a little too narrowly, and too near into the Diſguiſe; and therefore 'tis Decreed to give him his firſt ſtart in <hi>Ireland;</hi> where not only the diſtance would give Credit to the Figment, but alſo the ſtrong Bent of the <hi>I<g ref="char:EOLhyphen"/>riſh</hi> Inclination to the Houſe of <hi>York,</hi> would yield him the more favourable Countenance and Reception.</p>
+            <p>Accordingly our Prieſt, and his Imper<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l Nurſling, Embark'd for <hi>Ireland,</hi> where th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> no ſooner Landed, but all things were ſo rea<g ref="char:EOLhyphen"/>dy prepared for Revolt and Mutiny (the Natural Diſtemper of the Clime) as if his Succeſs and Tryumph, had been the Study, not the Lottery of his good Fortune: all things ſeemed Plotted before hand. <hi>Simon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Firſt Addreſs was to the Lord Deputy of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> before whoſe Eyes, and <hi>Iriſh</hi> Under<g ref="char:EOLhyphen"/>ſtanding, our Prince-look'd Puppit caſt ſuch a Miſt, as joyn'd perhaps with ſome inward Vapours of Ambition, left him fully poſſeſt that it was the true <hi>Plantagenet.</hi> The Depu<g ref="char:EOLhyphen"/>ty communicated the Matter to the <hi>Iriſh No<g ref="char:EOLhyphen"/>bles,</hi> and finding their Pulſes beat ſo exactly with his own, they reſolved to take a taſte of the Peoples Inclinations. But if the more Noble <hi>Iriſh Grandees</hi> were in ſo much for<g ref="char:EOLhyphen"/>wardneſs, no wonder that the meaner <hi>Teague,</hi> thoſe thinner Sould <hi>Dear Joys,</hi> were all Fury, and Tranſport: Inſomuch, that with a mar<g ref="char:EOLhyphen"/>vellous conſent and applauſe, this counter<g ref="char:EOLhyphen"/>feit <hi>Plantagenet</hi> was brought with great So<g ref="char:EOLhyphen"/>lemnity to the Caſtle of <hi>Dublin,</hi> and there Saluted, Served, and Honoured as King; and in a few Days after Proclaimed in <hi>Dublin,</hi> by the Name of King <hi>Edward</hi> the Sixth; there being not one Sword drawn in King <hi>Henry's</hi> Quarrel.</p>
+            <p>The King alarm'd with this unexpected Accident, amongſt ſeveral other Councils, to Ward againſt this growing Danger, cauſed the true <hi>Edward</hi> to be releas'd from his long Confinement, and ſhew'd in the moſt publick manner that could be deviſed, to diſabuſe and ſedate the miſtaken part of Mankind, and convince them of their Error and Frenzy and, thereby expoſe the Levity and Impoſture of the proceedings in <hi>Ireland.</hi> Hereupon the true <hi>Plantagenet</hi> was upon a Sunday brought, throughout the principal Streets of <hi>I<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> to be ſeen of the People; and from thence in Solemn proceſſion conducted to St. <hi>Pauls</hi> Church; the King having taken care, that thoſe of the Nobility that he moſt ſuſpected,
+<pb n="4" facs="tcp:107468:3"/>as alſo thoſe that knew the perſon of <hi>Planta<g ref="char:EOLhyphen"/>genet</hi> beſt, ſhould hold Communication with the Young Gentleman by the way; which in effect much marred the <hi>Iriſh Pageant</hi> with the Subjects here. Nevertheleſs in <hi>Ireland</hi> it wrought little, or rather no effect at all; but on the contrary, what with their Iriſh Intel<g ref="char:EOLhyphen"/>lects, and Iriſh Impudence together, they tur<g ref="char:EOLhyphen"/>ned the Impoſture back upon the King; au<g ref="char:EOLhyphen"/>daciouſly charging him with tricking up a falſe <hi>Plantagenet,</hi> to Defeat the true Inheritor.</p>
+            <p>The Rebels in <hi>Ireland</hi> continuing ſtill ob<g ref="char:EOLhyphen"/>ſtinate to Reaſon, ſo privily tranſacted with ſeveral Engliſh Nobles, as to draw them off to their party. But that which chiefly ſup<g ref="char:EOLhyphen"/>ported the Reputation of this Impoſtor, was the countenance It received from <hi>France,</hi> from the Lady <hi>Margaret</hi> of <hi>Bergundy,</hi> the moſt in<g ref="char:EOLhyphen"/>veterate Enemy of the <hi>Lancaſtrian</hi> Family. The Earl of <hi>Lincoln,</hi> with others the Confe<g ref="char:EOLhyphen"/>derate Engliſh Lords retiring into <hi>Flanders,</hi> and ſuccoured with ſome Thouſands of For<g ref="char:EOLhyphen"/>ces from the Lady <hi>Margaret,</hi> immediately Embark for <hi>Ireland,</hi> where upon this new acceſſion of Power, the <hi>Iriſh</hi> proceed to <hi>Grown</hi> their new King in the Cathedral Church of <hi>Dublin;</hi> and after ſeveral Debates, it was reſolv'd to Tranſport their <hi>Army,</hi> and aſſert His Right, and make Their Fortunes in <hi>England,</hi>
+            </p>
+            <p>In the mean time the King of <hi>England</hi> find<g ref="char:EOLhyphen"/>ing the Impoſtors cauſe upheld by ſuch pow<g ref="char:EOLhyphen"/>erful Abbettors, provides and prepares accord<g ref="char:EOLhyphen"/>ingly, by making Levies ſuitable to oppoſe ſo formidable an Enemy.</p>
+            <p>The <hi>Iriſh</hi> in the mean time, headed by their Lord Deputy, the Earl of <hi>Lincoln,</hi> the Lord <hi>Lovell, &amp;c.</hi> Landed at <hi>Fouldrey</hi> in <hi>Lan<g ref="char:EOLhyphen"/>caſhire;</hi> and from thence took their March towards <hi>York;</hi> but were much deceived in their Expectation of the Countries Concourſe to them; nevertheleſs they reſolved to give the King Battle, being now paſt Hopes of a Retreat.</p>
+            <p>The King and his Party with all alacrity, came to the Deciſion upon the Plains near <hi>Newark;</hi> where the Battle was on both ſides deſperately fought. Nevertheleſs the Divine Providence was pleaſed to carry Victory to the Rightful Cauſe. The Kings Conqueſt was compleat; nor did the <hi>Iriſh</hi> and their Allies fail in Courage or Fierceneſs: There dyed upon the place all the Chieftains of the Re<g ref="char:EOLhyphen"/>bels, <hi>viz.</hi> the Earl of <hi>Lincoln,</hi> Earl of <hi>Kildare, Francis</hi> Lord <hi>Lovel, Martin Swart,</hi> comman<g ref="char:EOLhyphen"/>der of Two thouſand <hi>Almains,</hi> all dying with<g ref="char:EOLhyphen"/>out giving Ground. Of the <hi>Iriſh</hi> fell 4000. and amongſt the Priſoners taken, was the Counterfeit <hi>Plantagenet,</hi> now plain <hi>Lambert Simnell</hi> again, and the crafty Prieſt his Tutor. As for <hi>Lambert,</hi> the King diſdained to take his Life, both out of magnanimity, as taking him but as an Image of VVax, that others had tempered and moulded; and alſo as much out of policy, as thinking by his Exe<g ref="char:EOLhyphen"/>cution he would be forgotten too ſoon; but being kept alive would be a continued Sub<g ref="char:EOLhyphen"/>ject of the peoples Laughter and Deriſion, and conſequently a kind of Spell, or Antidote againſt all future Frenſies and Infatuations. For which Reaſon he very prudently took him Into ſervice in the Court, and poſted him in the Office of a Scullion in the Kings Kit<g ref="char:EOLhyphen"/>chin. Thus by a Caprice of Fortune, poor <hi>Simnel</hi> comes from weilding a Scepter to turning a Spit; where behaving himſelf a quieter Subject, then he had raigned a Prince, he had the Honor afterwards to advance to the preferment of one of the Kings Faulconers.</p>
+            <p>The overthrow of ſuch a Villanous Im<g ref="char:EOLhyphen"/>poſture, was that National Deliverance, as is not a little worthy the <hi>Engliſh</hi> Remem<g ref="char:EOLhyphen"/>brance; and the ſame ſort of Artifices and Machinations form'd and practiſed in this preſent Age, we have juſt Reaſon to believe, by the ſame over-ruling Providence are and ſhall be as fully, and as happily detected, fruſtrated, and defeated.</p>
+            <closer>
+               <signed>With Allowance,</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>E. B.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
